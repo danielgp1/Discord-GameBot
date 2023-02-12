@@ -16,6 +16,7 @@
 - [Getting Started](#getting_started)
 - [Deployment](#deployment)
 - [Usage](#usage)
+- [Games](#games)
 - [Built Using](#built_using)
 - [Authors](#authors)
 - [Acknowledgments](#acknowledgement)
@@ -100,7 +101,7 @@ Click on a desired number reaction to play the corresponding game
 
 ![](https://i.imgur.com/PiEj67Q.png)
 
-## 🎮 Games
+## 🎮 Games <a name = "games"></a>
 
 <li>Tic-Tac-Toe</li> <br>
     
