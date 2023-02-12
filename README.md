@@ -54,7 +54,7 @@ https://discord.com/developers/applications
 
 ```
 PREFIX = "!"
-TOKEN = 'YOURK DISCORD BOT TOKEN'
+TOKEN = 'YOUR DISCORD BOT TOKEN'
 CHANNEL_ID = YOUR TEXT CHANNEL ID
 ```
 
