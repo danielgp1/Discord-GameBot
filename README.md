@@ -59,6 +59,12 @@ TOKEN = 'YOURK DISCORD BOT TOKEN'
 CHANNEL_ID = YOUR TEXT CHANNEL ID
 ```
 
+<li>To start the bot, run the following file from the project</li>
+
+```
+main.py
+```
+
 </ul>
 
 
