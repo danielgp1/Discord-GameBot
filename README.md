@@ -36,8 +36,7 @@ These instructions will get you a copy of the project up and running on your loc
 ```
 $ git clone https://github.com/danielgp1/Discord-GameBot.git
 ```
-    </ul>
-
+    
     <li>Install the necessary plugins using</li>
 
 ```
