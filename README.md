@@ -93,7 +93,7 @@ Give an example
 In order to be able to play games with the bot, you have to be assigned the <code>Games</code> role. <br>
 You can be granted the role by clicking on the 🎮 emoji on the message in the <code>welcome-channel</code>
 
-![](https://ibb.co/bQJ28KG)
+![](https://i.imgur.com/Zp4xYpc.png)
 
 ## ⛏️ Built Using <a name = "built_using"></a>
 
