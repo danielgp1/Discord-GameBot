@@ -1,5 +1,5 @@
 <p align="center">
- ![]([https://i.pinimg.com/564x/5c/62/7d/5c627dbe17a532ffa64f003fcf950a06.jpg](https://imgur.com/U5GaMNl))
+ ![](https://imgur.com/U5GaMNl)
 </p>
 
 <h3 align="center">Discord GameBot</h3>
