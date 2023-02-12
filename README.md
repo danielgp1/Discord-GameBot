@@ -30,27 +30,27 @@ More games to be added soon or later.
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
-<li>Download or clone the repository</li>
+-Download or clone the repository
 
 ```
 $ git clone https://github.com/danielgp1/Discord-GameBot.git
 ```
     
-<li>Install the necessary plugins using</li>
+-Install the necessary plugins using
 
 ```
 $ pip install -r requirements.txt
 ```
 
-<li>Create a Discord Bot in the Discord Developer Portal</li>
+-Create a Discord Bot in the Discord Developer Portal
 
 ```
 https://discord.com/developers/applications
 ```
     
-<li>Give the bot Administrator Rights and invite it to your server</li>
+-Give the bot Administrator Rights and invite it to your server
     
-<li>Replace the TOKEN and CHANNEL_ID values in the config.py file</li>
+-Replace the TOKEN and CHANNEL_ID values in the config.py file
 
 ```
 PREFIX = "!"
