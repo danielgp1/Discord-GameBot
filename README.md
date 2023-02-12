@@ -82,9 +82,6 @@ Give an example
 
 Add notes about how to use the system.
 
-## 🚀 Deployment <a name = "deployment"></a>
-
-Add additional notes about how to deploy this on a live system.
 
 ## ⛏️ Built Using <a name = "built_using"></a>
 
@@ -96,10 +93,7 @@ Add additional notes about how to deploy this on a live system.
 
 - [@danielgp1](https://github.com/danielgp1)
 
-See also the list of [contributors](https://github.com/kylelobo/The-Documentation-Compendium/contributors) who participated in this project.
-
 ## 🎉 Acknowledgements <a name = "acknowledgement"></a>
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- References
+- Stack Overflow
+
