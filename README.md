@@ -50,6 +50,14 @@ https://discord.com/developers/applications
 ```
     
 <li>Give the bot Administrator Rights and invite it to your server</li>
+    
+<li>Replace the TOKEN and CHANNEL_ID values in the config.py file</li>
+
+```
+PREFIX = "!"
+TOKEN = 'YOURK DISCORD BOT TOKEN'
+CHANNEL_ID = YOUR TEXT CHANNEL ID
+```
 
 </ul>
 
