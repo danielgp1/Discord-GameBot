@@ -58,7 +58,7 @@ TOKEN = 'YOURK DISCORD BOT TOKEN'
 CHANNEL_ID = YOUR TEXT CHANNEL ID
 ```
 
-<li>To start the bot, run the following file from the project</li>
+-  To start the bot, run the following file from the project
 
 ```
 main.py
@@ -78,19 +78,19 @@ Click on a desired number reaction to play the corresponding game
 
 ## 🎮 Games <a name = "games"></a>
 
-<li>Tic-Tac-Toe</li> <br>
+-  Tic-Tac-Toe <br>
     
 ![](https://i.imgur.com/2ZrZYgT.png)
 
-<li>Rock-Paper-Scissors</li> <br>
+-  Rock-Paper-Scissors <br>
     
 ![](https://i.imgur.com/6Ok6pq2.png)
 
-<li>Hangman</li> <br>
+-  Hangman <br>
     
 ![](https://i.imgur.com/gQnC2YF.png)
 
-<li>Akinator</li> <br>
+-  Akinator <br>
     
 ![](https://i.imgur.com/PalgoMM.png)
     
