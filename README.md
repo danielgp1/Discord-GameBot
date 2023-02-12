@@ -90,7 +90,8 @@ Give an example
 
 ## 🎈 Usage <a name="usage"></a>
 
-In order to be able to play games with the bot, you have to be assigned the <code>Games</code> role
+In order to be able to play games with the bot, you have to be assigned the <code>Games</code> role. <br>
+You can be granted the role by clicking on the 🎮 emoji on the message in the <code>welcome-channel</code>
 
 
 ## ⛏️ Built Using <a name = "built_using"></a>
