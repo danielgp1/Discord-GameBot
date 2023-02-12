@@ -50,8 +50,6 @@ https://discord.com/developers/applications
 ```
     
 <li>Give the bot Administrator Rights and invite it to your server</li>
-    
-<li>
 
 </ul>
 
@@ -78,9 +76,10 @@ Give an example
 
 ## 🎈 Usage <a name="usage"></a>
 
+Run the following file
 
 ```
-Give an example
+main.py
 ```
 
 
