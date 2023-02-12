@@ -90,11 +90,7 @@ Give an example
 
 ## 🎈 Usage <a name="usage"></a>
 
-Run the following file
-
-```
-main.py
-```
+In order to be able to play games with the bot, you have to be assigned the <code>Games</code> role
 
 
 ## ⛏️ Built Using <a name = "built_using"></a>
