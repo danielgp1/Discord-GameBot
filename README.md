@@ -1,6 +1,5 @@
-<p align="center">
+
  ![](https://imgur.com/U5GaMNl)
-</p>
 
 <h3 align="center">Discord GameBot</h3>
 
