@@ -5,7 +5,8 @@
 
 ---
 
-<p align="center"> Few lines describing your project.
+<p align="center">
+    My project for the FMI Python Course 2023
     <br> 
 </p>
 
