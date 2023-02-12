@@ -98,7 +98,7 @@ You can be granted the role by clicking on the 🎮 emoji on the message in the 
 By writing <code>!games</code> in a discord channel, you can check the list of the available games.<br>
 Click to a desired number reaction to play the corresponding game
 
-![](https://i.imgur.com/SM5Tq0F.png)
+![](https://i.imgur.com/PiEj67Q.png)
 
 ## ⛏️ Built Using <a name = "built_using"></a>
 
