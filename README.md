@@ -113,11 +113,11 @@ Click on a desired number reaction to play the corresponding game
 
 <li>Hangman</li> <br>
     
-![](https://i.imgur.com/2ZrZYgT.png)
+![](https://i.imgur.com/gQnC2YF.png)
 
 <li>Akinator</li> <br>
     
-![](https://i.imgur.com/2ZrZYgT.png)
+![](https://i.imgur.com/PalgoMM.png)
     
 
 ## ⛏️ Built Using <a name = "built_using"></a>
