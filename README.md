@@ -1,12 +1,22 @@
+<p align="center">
+  <a href="" rel="noopener">
+ <img width=200px height=200px src="https://i.imgur.com/6wj0hh6.jpg" alt="Project logo"></a>
+</p>
 
-![](https://graphicsfamily.com/wp-content/uploads/edd/2021/09/Gaming-Logo-Design-Template-1180x664.jpg)
+<h3 align="center">Project Title</h3>
 
-<h3 align="center">Discord GameBot</h3>
+<div align="center">
+
+[![Status](https://img.shields.io/badge/status-active-success.svg)]()
+[![GitHub Issues](https://img.shields.io/github/issues/kylelobo/The-Documentation-Compendium.svg)](https://github.com/kylelobo/The-Documentation-Compendium/issues)
+[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/kylelobo/The-Documentation-Compendium.svg)](https://github.com/kylelobo/The-Documentation-Compendium/pulls)
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](/LICENSE)
+
+</div>
 
 ---
 
-<p align="center">
-    My project for the FMI Python Course 2023
+<p align="center"> Few lines describing your project.
     <br> 
 </p>
 
@@ -14,98 +24,91 @@
 
 - [About](#about)
 - [Getting Started](#getting_started)
+- [Deployment](#deployment)
 - [Usage](#usage)
-- [Games](#games)
 - [Built Using](#built_using)
+- [TODO](../TODO.md)
+- [Contributing](../CONTRIBUTING.md)
 - [Authors](#authors)
 - [Acknowledgments](#acknowledgement)
 
 ## 🧐 About <a name = "about"></a>
 
-The project represents an implementation of a discord game bot. <br>
-You can play Tic-Tac-Toe, Rock-Paper-Scissors, Hangman and Akinator. <br>
-More games to be added soon or later.
+Write about 1-2 paragraphs describing the purpose of your project.
 
 ## 🏁 Getting Started <a name = "getting_started"></a>
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See [deployment](#deployment) for notes on how to deploy the project on a live system.
 
-<li>Download or clone the repository</li>
+### Prerequisites
 
-```
-$ git clone https://github.com/danielgp1/Discord-GameBot.git
-```
-    
-<li>Install the necessary plugins using</li>
+What things you need to install the software and how to install them.
 
 ```
-$ pip install -r requirements.txt
+Give examples
 ```
 
-<li>Create a Discord Bot in the Discord Developer Portal</li>
+### Installing
+
+A step by step series of examples that tell you how to get a development env running.
+
+Say what the step will be
 
 ```
-https://discord.com/developers/applications
-```
-    
-<li>Give the bot Administrator Rights and invite it to your server</li>
-    
-<li>Replace the TOKEN and CHANNEL_ID values in the config.py file</li>
-
-```
-PREFIX = "!"
-TOKEN = 'YOURK DISCORD BOT TOKEN'
-CHANNEL_ID = YOUR TEXT CHANNEL ID
+Give the example
 ```
 
-<li>To start the bot, run the following file from the project</li>
+And repeat
 
 ```
-main.py
+until finished
+```
+
+End with an example of getting some data out of the system or using it for a little demo.
+
+## 🔧 Running the tests <a name = "tests"></a>
+
+Explain how to run the automated tests for this system.
+
+### Break down into end to end tests
+
+Explain what these tests test and why
+
+```
+Give an example
+```
+
+### And coding style tests
+
+Explain what these tests test and why
+
+```
+Give an example
 ```
 
 ## 🎈 Usage <a name="usage"></a>
 
-In order to be able to play games with the bot, you have to be assigned the <code>Games</code> role. <br>
-You can be granted the role by clicking on the 🎮 emoji on the message in the <code>welcome-channel</code>
+Add notes about how to use the system.
 
-![](https://i.imgur.com/Zp4xYpc.png)
+## 🚀 Deployment <a name = "deployment"></a>
 
-By writing <code>!games</code> in a discord channel, you can check the list of the available games.<br>
-Click on a desired number reaction to play the corresponding game
-
-![](https://i.imgur.com/PiEj67Q.png)
-
-## 🎮 Games <a name = "games"></a>
-
-<li>Tic-Tac-Toe</li> <br>
-    
-![](https://i.imgur.com/2ZrZYgT.png)
-
-<li>Rock-Paper-Scissors</li> <br>
-    
-![](https://i.imgur.com/6Ok6pq2.png)
-
-<li>Hangman</li> <br>
-    
-![](https://i.imgur.com/gQnC2YF.png)
-
-<li>Akinator</li> <br>
-    
-![](https://i.imgur.com/PalgoMM.png)
-    
+Add additional notes about how to deploy this on a live system.
 
 ## ⛏️ Built Using <a name = "built_using"></a>
 
-- [Python](https://www.python.org/) 
-- [Visual Studio Code](https://code.visualstudio.com/) 
-
+- [MongoDB](https://www.mongodb.com/) - Database
+- [Express](https://expressjs.com/) - Server Framework
+- [VueJs](https://vuejs.org/) - Web Framework
+- [NodeJs](https://nodejs.org/en/) - Server Environment
 
 ## ✍️ Authors <a name = "authors"></a>
 
-- [@danielgp1](https://github.com/danielgp1)
+- [@kylelobo](https://github.com/kylelobo) - Idea & Initial work
+
+See also the list of [contributors](https://github.com/kylelobo/The-Documentation-Compendium/contributors) who participated in this project.
 
 ## 🎉 Acknowledgements <a name = "acknowledgement"></a>
 
-- Stack Overflow
-
+- Hat tip to anyone whose code was used
+- Inspiration
+- References
