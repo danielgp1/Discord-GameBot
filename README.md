@@ -24,8 +24,8 @@
 
 ## 🧐 About <a name = "about"></a>
 
-The project represents an implementation of a discord game bot. 
-You can play Tic-Tac-Toe, Rock-Paper-Scissors, Hangman and Akinator. 
+The project represents an implementation of a discord game bot. <br>
+You can play Tic-Tac-Toe, Rock-Paper-Scissors, Hangman and Akinator. <br>
 More games to be added soon or later.
 
 ## 🏁 Getting Started <a name = "getting_started"></a>
