@@ -48,10 +48,12 @@ $ pip install -r requirements.txt
 ```
 https://discord.com/developers/applications
 ```
+    
+<li>Give the bot Administrator Rights and invite it to your server</li>
+    
+<li>
 
-    <li>Give the Bot Administrator Rights and invite to your server</li>
-
- </ul>
+</ul>
 
 
 ## 🔧 Running the tests <a name = "tests"></a>
