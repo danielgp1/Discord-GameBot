@@ -106,4 +106,4 @@ Click on a desired number reaction to play the corresponding game
 - [@danielgp1](https://github.com/danielgp1)
 
 ## 🎉 Acknowledgements <a name = "acknowledgement"></a>
--  Stack Overflow
+- [Stack Overflow](https://stackoverflow.com/)
