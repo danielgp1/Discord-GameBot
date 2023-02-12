@@ -1,4 +1,3 @@
-
 ![](https://graphicsfamily.com/wp-content/uploads/edd/2021/09/Gaming-Logo-Design-Template-1180x664.jpg)
 
 <h3 align="center">Discord GameBot</h3>
