@@ -102,7 +102,19 @@ Click on a desired number reaction to play the corresponding game
 
 ## 🎮 Games
 
-<li>Tic-Tac-Toe</li>
+<li>Tic-Tac-Toe</li> <br>
+    
+![](https://i.imgur.com/2ZrZYgT.png)
+
+<li>Rock-Paper-Scissors</li> <br>
+    
+![](https://i.imgur.com/6Ok6pq2.png)
+
+<li>Hangman</li> <br>
+    
+![](https://i.imgur.com/2ZrZYgT.png)
+
+<li>Akinator</li> <br>
     
 ![](https://i.imgur.com/2ZrZYgT.png)
     
