@@ -100,8 +100,8 @@ Click on a desired number reaction to play the corresponding game
 
 ![](https://i.imgur.com/PiEj67Q.png)
 
-<ul>
-<li>Tic-Tac-Toe<li>
+<li>Tic-Tac-Toe</li>
+    
 ![](https://i.imgur.com/2ZrZYgT.png)
     
 <\ul>
