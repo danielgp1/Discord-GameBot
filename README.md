@@ -100,7 +100,9 @@ Click on a desired number reaction to play the corresponding game
 
 ![](https://i.imgur.com/PiEj67Q.png)
 
-##<li>Tic-Tac-Toe</li>
+## 🎮 Games
+
+<li>Tic-Tac-Toe</li>
     
 ![](https://i.imgur.com/2ZrZYgT.png)
     
