@@ -30,18 +30,29 @@ More games to be added soon or later.
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
-Download or clone the repository
+<ul>
+<li>Download or clone the repository
 
 ```
 $ git clone https://github.com/danielgp1/Discord-GameBot.git
 ```
+    </li>
 Install the necessary plugins using
 
 ```
 $ pip install -r requirements.txt
 ```
 
-End with an example of getting some data out of the system or using it for a little demo.
+Create a Discord Bot in the Discord Developer Portal
+
+```
+https://discord.com/developers/applications
+```
+
+Give the Bot Administrator Rights and invite to your server
+
+ </ul>
+
 
 ## 🔧 Running the tests <a name = "tests"></a>
 
@@ -65,7 +76,10 @@ Give an example
 
 ## 🎈 Usage <a name="usage"></a>
 
-Add notes about how to use the system.
+
+```
+Give an example
+```
 
 
 ## ⛏️ Built Using <a name = "built_using"></a>
