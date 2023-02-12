@@ -31,7 +31,6 @@ More games to be added soon or later.
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
-<ul>
 <li>Download or clone the repository</li>
 
 ```
@@ -64,29 +63,6 @@ CHANNEL_ID = YOUR TEXT CHANNEL ID
 
 ```
 main.py
-```
-
-</ul>
-
-
-## 🔧 Running the tests <a name = "tests"></a>
-
-Explain how to run the automated tests for this system.
-
-### Break down into end to end tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
 ```
 
 ## 🎈 Usage <a name="usage"></a>
