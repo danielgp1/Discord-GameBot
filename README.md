@@ -1,6 +1,5 @@
 <p align="center">
-  <a href="" rel="noopener">
- <img width=200px height=200px src="https://imgur.com/U5GaMNl" alt="Project logo"></a>
+ <img width=200px height=200px src="https://imgur.com/U5GaMNl" alt="Project logo">
 </p>
 
 <h3 align="center">Discord GameBot</h3>
