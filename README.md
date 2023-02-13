@@ -67,7 +67,7 @@ main.py
 
 In order to be able to play games with the bot, you have to be assigned the <code>Games</code> role. <br>
 First, add the roles Blue,Red and Games to your server. Write <code>!teams</code> in a text channel and copy the ID of the message <br>
-Replace the  <code>ourMessageID = ID</code> with the ID of your message in <code>on_raw_reaction_add</code> and code>on_raw_reaction_remove</code> in <code>main.py </code> <br>
+Replace the  <code>ourMessageID = ID</code> with the ID of your message in the functions <code>on_raw_reaction_add</code> and <code>on_raw_reaction_remove</code> in <code>main.py </code> <br>
 You can be granted the role by clicking on the 🎮 emoji on the message
 
 ![](https://i.imgur.com/Zp4xYpc.png)
